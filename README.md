@@ -422,6 +422,7 @@ Name | Website | Region
 [Plex](/company-profiles/plex.md) | https://plex.tv | Worldwide
 [PNC Financial Services ](/company-profiles/pnc-financial-services.md) | https://www.pnc.com/ | USA
 [PowerSchool](/company-profiles/powerschool.md) | https://www.powerschool.com/ | North America
+[PowerZ](/company-profiles/powerZ.md) | https://www.powerz.tech/ | Worldwide
 [Precision Nutrition](/company-profiles/precision-nutrition.md) | https://www.precisionnutrition.com/ | Worldwide
 [Predict Mobile](/company-profiles/predict-mobile.md) | https://predictmobile.com/ | UK
 [PreviousNext](/company-profiles/previousnext.md) | https://www.previousnext.com.au/ | Australia
